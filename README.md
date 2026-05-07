@@ -23,10 +23,18 @@ Built a Cryptocurrency Analytics Web App using Python and Streamlit to analyze r
 
 ## Installation
 
+## Installation
+
 Clone the repository:
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/shaikafeefa/Crypto-Web-App-DataScience-Project.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd Crypto-Web-App-DataScience-Project
 ```
 
 Navigate to the project folder:
